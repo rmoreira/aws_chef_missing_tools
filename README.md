@@ -47,4 +47,5 @@ export AWS_ACCESS_KEY_ID='Q1W...'
 export AWS_SECRET_ACCESS_KEY="3E4..."
 ```
 Run this to see nodes : ``` ruby clean_ebs_volumes.rb ```
+
 Run this to kill nodes: ``` ruby clean_ebs_volumes.rb delete ```
