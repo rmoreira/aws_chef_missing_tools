@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'chef'
+gem 'aws-sdk-v1', '~> 1'
+gem 'pry'
+gem 'thor'
+gem 'colorize'
